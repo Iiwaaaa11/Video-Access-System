@@ -69,15 +69,15 @@
             <div class="panel left-panel">
                 <div class="content">
                     <h3>New here ?</h3>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis, ex ratione. Aliquid, odit earum! </p>
+                    <p>Belum memiliki akun? Daftar sekarang untuk mengakses seluruh koleksi video kami dan nikmati pengalaman menonton yang tak terbatas. </p>
                     <button class="btn transparent" id="sign-up-btn">Sign up</button>
                 </div>
                 <img src="https://i.ibb.co/6HXL6q1/Privacy-policy-pana.svg" class="image" alt="">
             </div>
             <div class="panel right-panel">
                 <div class="content">
-                    <h3>One of us ?</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum laboriosam ad deleniti.</p>
+                    <h3>Have account?</h3>
+                    <p>Sudah memiliki akun? Masuk sekarang untuk melanjutkan perjalanan menonton Anda dan akses koleksi video pribadi yang sudah Anda simpan.</p>
                     <button class="btn transparent" id="sign-in-btn">Sign in</button>
                 </div>
                 <img src="https://i.ibb.co/nP8H853/Mobile-login-pana.svg" class="image" alt="">
